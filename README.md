@@ -1,5 +1,5 @@
 
-### Hi there, I'm Vinayak. [website] 👋 
+### Hi there, I'm Vinayak. <!-- [website] --> 👋 
 
 ## I'm a Tech enthusiast!
 - 🔭 I’m currently working on [SnipSnap][snipsnap]!
