@@ -38,7 +38,7 @@
 [twitter]: ""
 [youtube]: ""
 [instagram]: ""
-[linkedin]: www.linkedin.com/in/vinayaks18
+[linkedin]: https://linkedin.com/in/vinayaks18
 [github]:  https://github.com/vinayak1809
 <!--
 **vinayak1809/vinayak1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
