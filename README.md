@@ -15,13 +15,18 @@
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
-[<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>][github]
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
-[<img align="left" alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>][github]
-[<img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/>][github]
-
+<img align="left" src="./icons/Python-Dark.svg" width="48"> 
+<img align="left" src="./icons/JS.png" width="48">
+<img align="left" src="./icons/Java-Dark.svg" width="48">
+<img align="left" src="./icons/React-Dark.svg" width="48">
+<img align="left" src="./icons/ExpressJS-Dark.svg" width="48">
+<img align="left" src="./icons/MySQL-Dark.svg" width="48">
+<img align="left" src="./icons/Linux-Dark.svg" width="48">
+<img align="left" src="./icons/AWS-Dark.svg" width="48">
+<img align="left" src="./icons/HTML.svg" width="48">
+<img align="left" src="./icons/CSS.svg" width="48">
+<img align="left" src="./icons/Sass.svg" width="48">
+<img align="left" src="./icons/Postman.svg" width="48">
 
 <br />
 <br />
