@@ -8,13 +8,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="vinayak1809 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vinayak1809 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vinayak1809 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vinayak1809 | Twitter" width="48px" src="./icons/twitter.svg" />][twitter]
+[<img align="left" alt="vinayak1809 | LinkedIn" width="48px" src="./icons/linkedin.svg" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
+
 <img align="left" src="./icons/Python-Dark.svg" width="48"> 
 <img align="left" src="./icons/JS.png" width="48">
 <img align="left" src="./icons/Java-Dark.svg" width="48">
