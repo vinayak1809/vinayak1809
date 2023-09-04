@@ -21,6 +21,7 @@
 <img align="left" src="./icons/Java-Dark.svg" width="48">
 <img align="left" src="./icons/React-Dark.svg" width="48">
 <img align="left" src="./icons/ExpressJS-Dark.svg" width="48">
+<img align="left" src="./icons/mongoDB.png" width="48">
 <img align="left" src="./icons/MySQL-Dark.svg" width="48">
 <img align="left" src="./icons/Linux-Dark.svg" width="48">
 <img align="left" src="./icons/AWS-Dark.svg" width="48">
