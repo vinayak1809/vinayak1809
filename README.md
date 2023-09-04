@@ -28,7 +28,6 @@
 <img align="left" src="./icons/HTML.svg" width="48">
 <img align="left" src="./icons/CSS.svg" width="48">
 <img align="left" src="./icons/Sass.svg" width="48">
-<img align="left" src="./icons/Postman.svg" width="48">
 
 <br />
 <br />
