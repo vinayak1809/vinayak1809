@@ -2,9 +2,10 @@
 ### Hi there, I'm Vinayak. <!-- [website] --> 👋 
 
 ## I'm a Tech enthusiast!
-- 🔭 I’m currently working on [SnipSnap][snipsnap]!
-- 💻 I’m currently pursuing Master's in Computer Application.
-- 👯 I’m looking to collaborate with other developers.
+ <!--- - 🔭 I’m currently working on my personal project called as [SnipSnap][snipsnap]! --->
+- 🎓 Completed Master's in Computer Application.
+- 💼 Working at a startup.
+- 👯 Looking to collaborate with other developers.
 
 ### Connect with me:
 
